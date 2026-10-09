@@ -1,0 +1,8 @@
+{
+  "name": "mengjie-ai-film-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node build.mjs" },
+  "engines": { "node": ">=18" }
+}
