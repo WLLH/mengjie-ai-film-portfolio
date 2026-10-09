@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "project": "photo",
+    "title": "女主身份基准",
+    "kind": "生成图",
+    "src": "assets/images/gallery-01.webp",
+    "width": 1152,
+    "height": 1440
+  },
+  {
+    "id": 2,
+    "project": "photo",
+    "title": "人物左45度参考",
+    "kind": "生成图",
+    "src": "assets/images/gallery-02.webp",
+    "width": 1152,
+    "height": 1440
+  },
+  {
+    "id": 3,
+    "project": "photo",
+    "title": "人物表情参考",
+    "kind": "生成图",
+    "src": "assets/images/gallery-03.webp",
+    "width": 1152,
+    "height": 1440
+  },
+  {
+    "id": 4,
+    "project": "photo",
+    "title": "男女主同框比例",
+    "kind": "生成图",
+    "src": "assets/images/gallery-04.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": 5,
+    "project": "photo",
+    "title": "摄影社场景",
+    "kind": "生成图",
+    "src": "assets/images/gallery-05.webp",
+    "width": 1920,
+    "height": 1075
+  },
+  {
+    "id": 6,
+    "project": "lan",
+    "title": "岚翁角色设定",
+    "kind": "生成图",
+    "src": "assets/images/gallery-06.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": 7,
+    "project": "lan",
+    "title": "小角兽角色设定",
+    "kind": "生成图",
+    "src": "assets/images/gallery-07.webp",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "id": 8,
+    "project": "lan",
+    "title": "手绘风格与比例",
+    "kind": "生成图",
+    "src": "assets/images/gallery-08.webp",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 9,
+    "project": "lan",
+    "title": "镜头构图白模参考",
+    "kind": "构图参考",
+    "src": "assets/images/gallery-09.webp",
+    "width": 1920,
+    "height": 1081
+  },
+  {
+    "id": 10,
+    "project": "lan",
+    "title": "镜头首帧参考",
+    "kind": "生成图",
+    "src": "assets/images/gallery-10.webp",
+    "width": 1920,
+    "height": 1081
+  },
+  {
+    "id": 11,
+    "project": "lan",
+    "title": "农田环境",
+    "kind": "生成图",
+    "src": "assets/images/gallery-11.webp",
+    "width": 1920,
+    "height": 1081
+  },
+  {
+    "id": 12,
+    "project": "lan",
+    "title": "小溪环境",
+    "kind": "生成图",
+    "src": "assets/images/gallery-12.webp",
+    "width": 1920,
+    "height": 1076
+  },
+  {
+    "id": 13,
+    "project": "song",
+    "title": "江南生活镜头",
+    "kind": "生成图",
+    "src": "assets/images/gallery-13.webp",
+    "width": 1920,
+    "height": 1082
+  },
+  {
+    "id": 14,
+    "project": "song",
+    "title": "人物与衣料参考",
+    "kind": "生成图",
+    "src": "assets/images/gallery-14.webp",
+    "width": 1920,
+    "height": 927
+  },
+  {
+    "id": 15,
+    "project": "song",
+    "title": "宋式生活氛围",
+    "kind": "生成图",
+    "src": "assets/images/gallery-15.webp",
+    "width": 1920,
+    "height": 1082
+  },
+  {
+    "id": 16,
+    "project": "song",
+    "title": "场景与服饰探索",
+    "kind": "生成图",
+    "src": "assets/images/gallery-16.webp",
+    "width": 1920,
+    "height": 1081
+  },
+  {
+    "id": 17,
+    "project": "song",
+    "title": "宋式生活场景 1",
+    "kind": "生成图",
+    "src": "assets/images/gallery-17.webp",
+    "width": 1920,
+    "height": 1076
+  },
+  {
+    "id": 18,
+    "project": "song",
+    "title": "宋式生活场景 2",
+    "kind": "生成图",
+    "src": "assets/images/gallery-18.webp",
+    "width": 1920,
+    "height": 1076
+  }
+]
