@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "project": "photo",
+    "title": "女主角色与服装参考",
+    "kind": "角色设定",
+    "src": "assets/images/curated-20261011/photo-01.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": 2,
+    "project": "photo",
+    "title": "男主角色与服装参考",
+    "kind": "角色设定",
+    "src": "assets/images/curated-20261011/photo-02.webp",
+    "width": 1448,
+    "height": 1088
+  },
+  {
+    "id": 3,
+    "project": "photo",
+    "title": "男女主同框身高比例",
+    "kind": "角色设定",
+    "src": "assets/images/curated-20261011/photo-03.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": 4,
+    "project": "photo",
+    "title": "校园走廊场景",
+    "kind": "场景参考",
+    "src": "assets/images/curated-20261011/photo-04.webp",
+    "width": 1920,
+    "height": 1075
+  },
+  {
+    "id": 5,
+    "project": "photo",
+    "title": "走廊人物镜头",
+    "kind": "镜头参考",
+    "src": "assets/images/curated-20261011/photo-05.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 6,
+    "project": "photo",
+    "title": "教室人物镜头",
+    "kind": "镜头参考",
+    "src": "assets/images/curated-20261011/photo-06.webp",
+    "width": 795,
+    "height": 455
+  },
+  {
+    "id": 7,
+    "project": "photo",
+    "title": "校园双人日常",
+    "kind": "镜头参考",
+    "src": "assets/images/curated-20261011/photo-07.webp",
+    "width": 813,
+    "height": 456
+  },
+  {
+    "id": 8,
+    "project": "photo",
+    "title": "相机正面道具参考",
+    "kind": "道具参考",
+    "src": "assets/images/curated-20261011/photo-08.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": 9,
+    "project": "photo",
+    "title": "相机背面细节参考",
+    "kind": "道具参考",
+    "src": "assets/images/curated-20261011/photo-09.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": 10,
+    "project": "lan",
+    "title": "岚翁角色设定",
+    "kind": "角色设定",
+    "src": "assets/images/curated-20261011/lan-01.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": 11,
+    "project": "lan",
+    "title": "小角兽角色设定",
+    "kind": "角色设定",
+    "src": "assets/images/curated-20261011/lan-02.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": 12,
+    "project": "lan",
+    "title": "手绘风格与体型参考",
+    "kind": "风格参考",
+    "src": "assets/images/curated-20261011/lan-03.webp",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "id": 13,
+    "project": "lan",
+    "title": "木屋门口场景",
+    "kind": "场景参考",
+    "src": "assets/images/curated-20261011/lan-04.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 14,
+    "project": "lan",
+    "title": "山谷草地环境",
+    "kind": "场景参考",
+    "src": "assets/images/curated-20261011/lan-05.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 15,
+    "project": "lan",
+    "title": "第三镜构图白模",
+    "kind": "构图参考",
+    "src": "assets/images/curated-20261011/lan-06.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": 16,
+    "project": "lan",
+    "title": "农田环境",
+    "kind": "场景参考",
+    "src": "assets/images/curated-20261011/lan-07.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": 17,
+    "project": "lan",
+    "title": "小溪环境",
+    "kind": "场景参考",
+    "src": "assets/images/curated-20261011/lan-08.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 18,
+    "project": "song",
+    "title": "人物与服装参考",
+    "kind": "角色设定",
+    "src": "assets/images/curated-20261011/song-01.webp",
+    "width": 1669,
+    "height": 942
+  },
+  {
+    "id": 19,
+    "project": "song",
+    "title": "水边洗布场景",
+    "kind": "镜头参考",
+    "src": "assets/images/curated-20261011/song-02.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 20,
+    "project": "song",
+    "title": "水边劳作群像",
+    "kind": "场景参考",
+    "src": "assets/images/curated-20261011/song-03.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 21,
+    "project": "song",
+    "title": "宋式染织氛围",
+    "kind": "风格参考",
+    "src": "assets/images/curated-20261011/song-04.webp",
+    "width": 1456,
+    "height": 816
+  },
+  {
+    "id": 22,
+    "project": "song",
+    "title": "染布镜头",
+    "kind": "镜头参考",
+    "src": "assets/images/curated-20261011/song-05.webp",
+    "width": 1184,
+    "height": 667
+  },
+  {
+    "id": 23,
+    "project": "song",
+    "title": "衣料与色彩细节",
+    "kind": "材质参考",
+    "src": "assets/images/curated-20261011/song-06.webp",
+    "width": 1672,
+    "height": 941
+  }
+]
